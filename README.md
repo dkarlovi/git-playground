@@ -2,3 +2,5 @@
 ## Hotfix release
 
 This is a text added from hotfix2 branch.
+
+Also, master got involved!
